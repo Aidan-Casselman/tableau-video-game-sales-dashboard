@@ -31,7 +31,7 @@ Originally I prepared the data for use in Tableau using Excel. Here are the step
 18. Replaced all instances of “Platform” genre with “Platformer” as it is more widely used
 
 ## Jupyter Notebook
-I have included a jupyter notebook (.ipynb) file that performs all the operations outlined in the [Data Cleaning & Preparation Steps](original-data-cleaning-&-preparation-steps) section.
+I have included a jupyter notebook (.ipynb) file that performs all the operations outlined in the Data Cleaning & Preparation Steps section.
 
 ## main.py
-I have also included a simple python file that completes all of the [Data Cleaning & Preparation Steps](original-data-cleaning-&-preparation-steps) and saves the modified .csv file as "Video_Games_Modified.csv". Start by downloading the data from [this](https://data.world/sumitrock/video-games-sales) link. Then simply run the python file to reach the state the dataset was in when I imported it to Tableau.
+I have also included a simple python file that completes all of the Data Cleaning & Preparation Steps and saves the modified .csv file as "Video_Games_Modified.csv". Start by downloading the data from [this](https://data.world/sumitrock/video-games-sales) link. Then simply run the python file to reach the state the dataset was in when I imported it to Tableau.
