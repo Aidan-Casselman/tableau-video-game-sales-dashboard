@@ -58,4 +58,5 @@ df.loc[df['Name'] == "Thomas the Tank Engine & Friends", 'Platform'] = 'Genesis'
 df.loc[df['Name'] == "Brothers Conflict: Precious Baby", 'Year_of_Release'] = 2016
 df.loc[df['Name'] == "Imagine: Makeup Artist", 'Year_of_Release'] = 2009
 df.loc[df['Name'] == "Phantasy Star Online 2 Episode 4: Deluxe Package", 'Year_of_Release'] = 2016
+df['Genre'] = df['Genre'].replace('Platform', 'Platformer')
 df.to_csv('Video_Games_Modified.csv', index=False)
