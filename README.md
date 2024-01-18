@@ -3,11 +3,11 @@
 Interactive Tableau dashboard comparing the number of video game copies sold between publishers, games, platforms, genres and regions. Includes the best selling games from the years 1977 to 2016.
 
 ### [Link to dashboard.](https://public.tableau.com/app/profile/aidan.casselman/viz/VideoGameSales_16892091832450/Global)
+| [<img align="center" alt="Dashboard" width="800px" style="padding-right:10px;" src="https://github.com/Aidan-Casselman/tableau-video-game-sales-dashboard/blob/main/dashboard_bubble.png" />](https://public.tableau.com/app/profile/aidan.casselman/viz/VideoGameSales_16892091832450/Global)  | [<img align="center" alt="Dashboard" width="800px" style="padding-right:10px;" src="https://github.com/Aidan-Casselman/tableau-video-game-sales-dashboard/blob/main/dashboard_top10.png" />](https://public.tableau.com/app/profile/aidan.casselman/viz/VideoGameSales_16892091832450/Global)  |
+| -- | -- |
+<br clear="center"/>
 
-[<img align="left" alt="Dashboard" width="800px" style="padding-right:10px;" src="https://github.com/Aidan-Casselman/tableau-video-game-sales-dashboard/blob/main/dashboard.png" />](https://public.tableau.com/app/profile/aidan.casselman/viz/VideoGameSales_16892091832450/Global)
-<br clear="left"/>
----
-This repo showcases the steps I took to clean and prepare the dataset for use in the Tableau dashboard.
+This repo showcases the steps I took to clean and prepare the dataset for use in the dashboard. It also includes a jupyter notebook and python file that will perform the data preparation steps.
 
 ## Original Data Cleaning & Preparation Steps
 Originally I prepared the data for use in Tableau using Excel. Here are the steps I took:
